@@ -1,5 +1,5 @@
 "use client";
-import config from "@/app/sanity.config"
+import config from "@/sanity.config"
 import { NextStudio } from "next-sanity/studio"
 
 
