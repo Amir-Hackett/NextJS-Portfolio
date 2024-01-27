@@ -19,7 +19,7 @@ export default function RootLayout({
     <html lang="en">
       <body className="max-w-3xl mx-auto py-10">
 
-        <header>
+        {/* <header>
           <Link 
             href="/">
             Contact Me
@@ -28,7 +28,7 @@ export default function RootLayout({
             href="/">
             Amir
           </Link>
-        </header>
+        </header> */}
 
         <main className="py-20">{children}</main>
 
