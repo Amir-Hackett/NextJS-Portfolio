@@ -8,13 +8,13 @@
  */
 (self["webpackChunk_N_E"] = self["webpackChunk_N_E"] || []).push([["app/page"],{
 
-/***/ "(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2FAmir%2Ftest_port%2Fnode_modules%2Fnext%2Fdist%2Fclient%2Fimage-component.js&server=false!":
-/*!******************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2FAmir%2Ftest_port%2Fnode_modules%2Fnext%2Fdist%2Fclient%2Fimage-component.js&server=false! ***!
-  \******************************************************************************************************************************************************************************************************/
+/***/ "(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2FAmir%2Funtitled%20folder%2Ftest_port%2Fnode_modules%2Fnext%2Fdist%2Fclient%2Fimage-component.js&server=false!":
+/*!**************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2FAmir%2Funtitled%20folder%2Ftest_port%2Fnode_modules%2Fnext%2Fdist%2Fclient%2Fimage-component.js&server=false! ***!
+  \**************************************************************************************************************************************************************************************************************************/
 /***/ (function(__unused_webpack_module, __unused_webpack_exports, __webpack_require__) {
 
-eval(__webpack_require__.ts("Promise.resolve(/*! import() eager */).then(__webpack_require__.t.bind(__webpack_require__, /*! ./node_modules/next/dist/client/image-component.js */ \"(app-pages-browser)/./node_modules/next/dist/client/image-component.js\", 23))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uL25vZGVfbW9kdWxlcy9uZXh0L2Rpc3QvYnVpbGQvd2VicGFjay9sb2FkZXJzL25leHQtZmxpZ2h0LWNsaWVudC1lbnRyeS1sb2FkZXIuanM/bW9kdWxlcz0lMkZVc2VycyUyRkFtaXIlMkZ0ZXN0X3BvcnQlMkZub2RlX21vZHVsZXMlMkZuZXh0JTJGZGlzdCUyRmNsaWVudCUyRmltYWdlLWNvbXBvbmVudC5qcyZzZXJ2ZXI9ZmFsc2UhIiwibWFwcGluZ3MiOiJBQUFBIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vX05fRS8/MTA4YiJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQoLyogd2VicGFja01vZGU6IFwiZWFnZXJcIiAqLyBcIi9Vc2Vycy9BbWlyL3Rlc3RfcG9ydC9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2NsaWVudC9pbWFnZS1jb21wb25lbnQuanNcIikiXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2FAmir%2Ftest_port%2Fnode_modules%2Fnext%2Fdist%2Fclient%2Fimage-component.js&server=false!\n"));
+eval(__webpack_require__.ts("Promise.resolve(/*! import() eager */).then(__webpack_require__.t.bind(__webpack_require__, /*! ./node_modules/next/dist/client/image-component.js */ \"(app-pages-browser)/./node_modules/next/dist/client/image-component.js\", 23))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uL25vZGVfbW9kdWxlcy9uZXh0L2Rpc3QvYnVpbGQvd2VicGFjay9sb2FkZXJzL25leHQtZmxpZ2h0LWNsaWVudC1lbnRyeS1sb2FkZXIuanM/bW9kdWxlcz0lMkZVc2VycyUyRkFtaXIlMkZ1bnRpdGxlZCUyMGZvbGRlciUyRnRlc3RfcG9ydCUyRm5vZGVfbW9kdWxlcyUyRm5leHQlMkZkaXN0JTJGY2xpZW50JTJGaW1hZ2UtY29tcG9uZW50LmpzJnNlcnZlcj1mYWxzZSEiLCJtYXBwaW5ncyI6IkFBQUEiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLz8wOWU4Il0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJlYWdlclwiICovIFwiL1VzZXJzL0FtaXIvdW50aXRsZWQgZm9sZGVyL3Rlc3RfcG9ydC9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2NsaWVudC9pbWFnZS1jb21wb25lbnQuanNcIikiXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2FAmir%2Funtitled%20folder%2Ftest_port%2Fnode_modules%2Fnext%2Fdist%2Fclient%2Fimage-component.js&server=false!\n"));
 
 /***/ }),
 
@@ -219,7 +219,7 @@ eval(__webpack_require__.ts("\nvar _s = $RefreshSig$();\n\"use strict\";\nObject
 },
 /******/ function(__webpack_require__) { // webpackRuntimeModules
 /******/ var __webpack_exec__ = function(moduleId) { return __webpack_require__(__webpack_require__.s = moduleId); }
-/******/ __webpack_require__.O(0, ["main-app"], function() { return __webpack_exec__("(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2FAmir%2Ftest_port%2Fnode_modules%2Fnext%2Fdist%2Fclient%2Fimage-component.js&server=false!"); });
+/******/ __webpack_require__.O(0, ["main-app"], function() { return __webpack_exec__("(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2FAmir%2Funtitled%20folder%2Ftest_port%2Fnode_modules%2Fnext%2Fdist%2Fclient%2Fimage-component.js&server=false!"); });
 /******/ var __webpack_exports__ = __webpack_require__.O();
 /******/ _N_E = __webpack_exports__;
 /******/ }
