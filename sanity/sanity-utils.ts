@@ -8,11 +8,11 @@ export async function getProjects() {
     });
 
     return client.fetch(
-        groq`*[_type="project"]{
+        groq`*[_type == "project"]{
             _id,
             _createdAt,
             name,
-            "slug" slug.current,
+            "slug": slug.current,
             "image": image.asset->url,
             url,
             content
