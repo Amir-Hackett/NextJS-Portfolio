@@ -11,14 +11,16 @@ export default async function Home() {
 
       <h1 className="text-7xl font-extrabold">
         Hello I&apos;m{" "}
-        <span className="bg-gradient-to-r from-orange-400 via-red-500 to-purple-600 bg-clip-text text-transparent">
-        Amir
+        <span className="bg-gradient-to-r from-blue-400 via-purple-500 to-purple-600 bg-clip-text text-transparent">
+        Amir 
         </span>  
         !
+        <img className="-mt-8 w-36 h-36 float-right rounded-full" src="../images/IMG_0909.JPG" alt="Medium avatar"/>
       </h1>
+      
 
       <p className="mt-3 text-xl text-gray-600">
-        Hey Everybody Checkout my Projects!
+        Test
       </p>
 
       <h2 className="mt-24 font-bold text-gray-700 text-3xl"> My Projects</h2>
@@ -27,7 +29,7 @@ export default async function Home() {
       {projects.map((project) => (
         <Link 
         // needs to be changed
-        href={`/projects/${project.slug}`} 
+        href={`${project.url}`} 
         key={project._id} 
         className="border-2 border-gray-500 rounded-lg p-1 hover:scale-105 hover:border-blue-500 transition">
 
