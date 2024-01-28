@@ -15,7 +15,7 @@ export default function ContactForm() {
         message: String(event.target.message.value),
         };
 
-        const response = await fetch("/api/contact", {
+        const response = await fetch("pages/api/contact.js", {
         method: "POST",
         headers: {
             "Content-Type": "application/json",
