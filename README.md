@@ -16,3 +16,8 @@ This project is a personal portfolio webpage successfully built with NextJS 14, 
 ### Contact Form
 - Successfully captures user inputs for email, subject, and message.
 - Implemented the contact form using Nodemailer for integration.
+
+## Usage
+
+Please view deployed application on [Vercel](https://next-js-portfolio-ten-gold.vercel.app/) </br>
+Please view deployed [Admin Page](https://next-js-portfolio-ten-gold.vercel.app/admin)
