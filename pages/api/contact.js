@@ -24,13 +24,13 @@ export default async function ContactAPI(req, res) {
 
         const mail = await transporter.sendMail({
             from: user,
-            to: "testing@gmail.com",
+            to: email,
             replyTo: email,
             subject: `Contact form submission from ${name}`,
             html:`
-            <p>Name: ${name}<p>
-            <p>Email: ${email}<p>
-            <p>Message: ${message}<p>
+            <p>Name: ${name}</p>
+            <p>Email: ${email}</p>
+            <p>Message: ${message}</p>
             `,
         })
 

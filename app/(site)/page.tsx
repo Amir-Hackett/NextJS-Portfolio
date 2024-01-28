@@ -97,7 +97,7 @@ export default function Home() {
               <div className="flex items-center justify-center mt-2 font-extrabold bg-gradient-to-r from-blue-400 via-purple-500 to-purple-600 bg-clip-text text-transparent">
                 {projects[currentIndex]?.name}
               </div>
-              <div className="text-lg text-gray-700 mt-5">
+              <div className="text-lg text-gray-700 mt-5 h-32 overflow-y-auto">
                 <PortableText value={projects[currentIndex]?.content} />
               </div>
             </Link>
@@ -109,7 +109,7 @@ export default function Home() {
             &gt;
           </div>
         </div>
-      </div> 
+      </div>
       <ContactForm />
     </div>
   );
