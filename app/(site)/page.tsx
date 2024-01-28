@@ -72,7 +72,10 @@ export default function Home() {
 
       <div className="mt-5 relative">
         <div className="relative flex items-center justify-between">
-          <div className="cursor-pointer" onClick={goToPrevProject}>
+          <div
+            className="cursor-pointer text-xl font-bold"
+            onClick={goToPrevProject}
+          >
             &lt;
           </div>
           <div className="flex-grow">
@@ -99,7 +102,10 @@ export default function Home() {
               </div>
             </Link>
           </div>
-          <div className="cursor-pointer" onClick={goToNextProject}>
+          <div
+            className="cursor-pointer text-xl font-bold"
+            onClick={goToNextProject}
+          >
             &gt;
           </div>
         </div>
