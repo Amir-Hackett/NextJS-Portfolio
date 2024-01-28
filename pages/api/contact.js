@@ -1,6 +1,6 @@
 import nodemailer from "nodemailer"
 
-export default async function (req, res) {
+export default async function ContactAPI(req, res) {
 
     const {name, email, message} = req.body
 
