@@ -1,6 +1,7 @@
 import { getProjects } from "@/sanity/sanity-utils";
 import Image from "next/image";
 import Link from "next/link";
+import ContactForm from "./contact/contact";
 
 export default async function Home() {
   const projects = await getProjects();
@@ -49,6 +50,7 @@ export default async function Home() {
           </Link>
         ))}
       </div>
+      <ContactForm/>
     </div>
   );
 }
