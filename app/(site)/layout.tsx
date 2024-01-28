@@ -19,16 +19,16 @@ export default function RootLayout({
     <html lang="en">
       <body className="max-w-3xl mx-auto py-10">
 
-        {/* <header>
-          <Link 
-            href="/">
-            Contact Me
-          </Link> {" "}
-          <Link 
-            href="/">
-            Amir
+        <header className="flex items-center justify-between bg-gray-100 p-3 ">
+          <Link className="rounded-lg font-bold hover:scale-105 transition" 
+                href="#projects">
+                  My Projects
+          </Link>{" "}
+          <Link className="rounded-lg font-bold hover:scale-105 transition"  
+                href="#contact">
+                  Contact Me
           </Link>
-        </header> */}
+        </header>
 
         <main className="py-20">{children}</main>
 

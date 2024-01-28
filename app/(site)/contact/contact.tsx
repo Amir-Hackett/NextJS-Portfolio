@@ -39,7 +39,7 @@ export default function ContactForm() {
     return (
         <form onSubmit={handleSubmit}>
 
-            <h2 className="mt-24 font-bold text-gray-700 text-3xl">Contact Me</h2>    
+            <h2 id="contact" className="mt-24 font-bold text-gray-700 text-3xl">Contact Me</h2>    
             
             <div className="w-full flex flex-col my-4">
                 <label className="font-bold text-gray-800" htmlFor="name">

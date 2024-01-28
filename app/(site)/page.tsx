@@ -26,7 +26,7 @@ export default async function Home() {
         Accomplished and dynamic professional with a proven track record of innovative web development, strategic business operations, and advanced problem-solving. Expert in translating complex business requirements into technical solutions, delivering high-quality projects that enhance organizational performance. Renowned for driving operational excellence, leveraging extensive experience in API integration, and cultivating user-centric experiences that propel leading organizations to the forefront of their industries. A collaborative leader and mentor committed to fostering team growth and championing agile methodologies to accelerate project delivery and achieve exceptional results.
       </p>
 
-      <h2 className="mt-24 font-bold text-gray-700 text-3xl"> My Projects</h2>
+      <h2 id="projects" className="mt-24 font-bold text-gray-700 text-3xl"> My Projects</h2>
 
       <div className="mt-5 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         {projects.map((project) => (
