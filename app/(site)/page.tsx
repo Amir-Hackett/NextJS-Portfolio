@@ -73,7 +73,7 @@ export default function Home() {
       <div className="mt-5 relative">
         <div className="relative flex items-center justify-between">
           <div
-            className="cursor-pointer text-xl font-bold"
+            className="cursor-pointer text-xl font-bold mr-4"
             onClick={goToPrevProject}
           >
             &lt;
@@ -103,13 +103,13 @@ export default function Home() {
             </Link>
           </div>
           <div
-            className="cursor-pointer text-xl font-bold"
+            className="cursor-pointer text-xl font-bold ml-4"
             onClick={goToNextProject}
           >
             &gt;
           </div>
         </div>
-      </div>
+      </div> 
       <ContactForm />
     </div>
   );
