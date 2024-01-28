@@ -605,6 +605,9 @@ video {
 .h-36 {
   height: 9rem;
 }
+.min-h-screen {
+  min-height: 100vh;
+}
 .w-36 {
   width: 9rem;
 }
@@ -714,6 +717,9 @@ video {
 }
 .p-4 {
   padding: 1rem;
+}
+.p-8 {
+  padding: 2rem;
 }
 .px-4 {
   padding-left: 1rem;
